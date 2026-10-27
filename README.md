@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/capturas/banner.svg" alt="PACEÑO" width="100%">
+  <img src="img/portada.png" alt="PACEÑO" width="100%">
 </p>
 
 <p align="center">
@@ -38,15 +38,15 @@ Django · Django REST Framework · Django Admin · PostgreSQL · React + Vite y 
 
 **Panel administrativo**
 
-<img src="docs/capturas/01-panel-admin.png" width="80%">
+<img src="img/img (1).png" width="80%">
 
 **API de bienes**
 
-<img src="docs/capturas/04-api-bienes.png" width="80%">
+<img src="img/img (2).png" width="80%">
 
 **API de categorías**
 
-<img src="docs/capturas/05-api-categorias.png" width="80%">
+<img src="img/img (3).png" width="80%">
 
 ## Instalación
 
